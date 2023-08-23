@@ -11,7 +11,7 @@ Página de papelaria feita com HTML e CSS a partir do curso "Layouts Responsivos
 
 ## ✔ Projeto final
 
-- Deploy
+- [Deploy no GitHub](https://giovanna-viana.github.io/apeperia_oneT5/)
 
 ![Screenshot Projeto Apeperia](https://github.com/giovanna-viana/apeperia_oneT5/assets/73502367/82ac0659-9ae6-4004-a22d-c50cac619fbd)
 
